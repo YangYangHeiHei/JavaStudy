@@ -9,6 +9,6 @@ public class StudentController {
     @RequestMapping("/index")
     @ResponseBody
     public String index(){
-        return "hello world";
+        return "hello world你好世界";
     }
 }
