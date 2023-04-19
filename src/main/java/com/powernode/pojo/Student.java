@@ -9,4 +9,5 @@ public class Student {
     private String password;
     private String email;
     private String address;
+    private String sex;
 }
